@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+# Im DarkMmd
+### A junior-developer guy in Iran
+#### -🌱<ins>Still learning</ins>
 <!--
 **KhodeDarkMmd/KhodeDarkMmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
